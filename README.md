@@ -1,1 +1,3 @@
-# calculator
+# Mans projekta apraksts
+
+## Calculator
